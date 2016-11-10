@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 git tracks changes.
 git has added remote repository.
+learning git remote
